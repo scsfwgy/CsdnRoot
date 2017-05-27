@@ -21,6 +21,8 @@
 
 ### 服务器接口模块
 
+[https://github.com/scsfwgy/CsdnService](https://github.com/scsfwgy/CsdnService "https://github.com/scsfwgy/CsdnService")
+
 ### Android端
 
 [https://github.com/scsfwgy/CsdnAndroid](https://github.com/scsfwgy/CsdnAndroid "https://github.com/scsfwgy/CsdnAndroid")
@@ -29,5 +31,15 @@
 
 待开发，欢迎加入
 
+
+### 支持
+* 所有赞赏都将用于测试服务器和正式服务器的购买
+
+
+![这里写图片描述](http://img.blog.csdn.net/20170527115058377?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvd2d5c2NzZg==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+
+![这里写图片描述](http://img.blog.csdn.net/20170527115117213?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvd2d5c2NzZg==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+
 ### 声明
 * 本项目仅用于学习交流使用，**禁止**进行商业目的的开发、发布、运营等。数据所有权归[http://www.csdn.net/](http://www.csdn.net/)所有。
+
